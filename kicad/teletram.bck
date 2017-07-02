@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Crystal4p
+D Four pin crystal
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP USBLC6-2
+D USB ESD protection TVS
+$ENDCMP
+#
+#End Doc Library
